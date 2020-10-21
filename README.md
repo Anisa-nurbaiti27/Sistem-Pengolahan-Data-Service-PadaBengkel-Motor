@@ -1,2 +1,2 @@
-# Sistem-Pengolahan-Data-Service-PadaBengkel-Motor
+# Sistem Pengolahan Data Service Pada Bengkel Motor
 Sistem Pengolahan Data Service Pada Bengkel Motor adalah aplikasi pengolahan data perbaikan service dimana data yang dikelola mulai dari data pelanggan,data service,data mekanik,data barang,penjualan baran,dan laporan penjualan . Aplikasi ini dibuat menggunakan bahasa pemrograman java dengan menggunakan aplikasi Netbeans IDE 8.0.2 dengan didukung database MYSQL , menggunakan desain yang responsif bagi user.
